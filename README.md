@@ -47,10 +47,6 @@ npm install
 
 6. Luego ejecutaremos el comando ```npm run dev``` para que se ejecute el servidor
 
-```
-npm run dev
-```
-
 7. En su navegador de preferencia abra ```http://localhost:5173```
 
 8. Juegue!
